@@ -1,0 +1,16 @@
+C:\Users\sispatro\Downloads\threaded_mem_allocation_test\ProcessWorker\bin\Debug\ProcessWorker.exe.config
+C:\Users\sispatro\Downloads\threaded_mem_allocation_test\ProcessWorker\bin\Debug\ProcessWorker.exe
+C:\Users\sispatro\Downloads\threaded_mem_allocation_test\ProcessWorker\bin\Debug\ProcessWorker.pdb
+C:\Users\sispatro\Downloads\threaded_mem_allocation_test\ProcessWorker\obj\Debug\ProcessWorker.csproj.AssemblyReference.cache
+C:\Users\sispatro\Downloads\threaded_mem_allocation_test\ProcessWorker\obj\Debug\ProcessWorker.csproj.SuggestedBindingRedirects.cache
+C:\Users\sispatro\Downloads\threaded_mem_allocation_test\ProcessWorker\obj\Debug\ProcessWorker.csproj.CoreCompileInputs.cache
+C:\Users\sispatro\Downloads\threaded_mem_allocation_test\ProcessWorker\obj\Debug\ProcessWorker.exe
+C:\Users\sispatro\Downloads\threaded_mem_allocation_test\ProcessWorker\obj\Debug\ProcessWorker.pdb
+C:\Users\sispatro\Documents\Sisir\Takeda\MSSR\ThreadingPerfromanceTest\ProcessWorker\bin\Debug\ProcessWorker.exe.config
+C:\Users\sispatro\Documents\Sisir\Takeda\MSSR\ThreadingPerfromanceTest\ProcessWorker\bin\Debug\ProcessWorker.exe
+C:\Users\sispatro\Documents\Sisir\Takeda\MSSR\ThreadingPerfromanceTest\ProcessWorker\bin\Debug\ProcessWorker.pdb
+C:\Users\sispatro\Documents\Sisir\Takeda\MSSR\ThreadingPerfromanceTest\ProcessWorker\obj\Debug\ProcessWorker.csproj.AssemblyReference.cache
+C:\Users\sispatro\Documents\Sisir\Takeda\MSSR\ThreadingPerfromanceTest\ProcessWorker\obj\Debug\ProcessWorker.csproj.SuggestedBindingRedirects.cache
+C:\Users\sispatro\Documents\Sisir\Takeda\MSSR\ThreadingPerfromanceTest\ProcessWorker\obj\Debug\ProcessWorker.csproj.CoreCompileInputs.cache
+C:\Users\sispatro\Documents\Sisir\Takeda\MSSR\ThreadingPerfromanceTest\ProcessWorker\obj\Debug\ProcessWorker.exe
+C:\Users\sispatro\Documents\Sisir\Takeda\MSSR\ThreadingPerfromanceTest\ProcessWorker\obj\Debug\ProcessWorker.pdb
